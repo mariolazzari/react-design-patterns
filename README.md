@@ -1,1 +1,3 @@
-# react-design-patterns
+# React design patterns
+
+## Layout components
